@@ -4,6 +4,7 @@
         <NavComponent/>
         <parallax/>
         <proyects/>
+        <skills/>
         <footer-component/>
 
     </div>
@@ -14,6 +15,8 @@ import NavComponent from './components/NavComponent'
 import Parallax from './components/Parallax'
 import FooterComponent from './components/FooterComponent'
 import Proyects from './components/Proyects'
+import Skills from './components/Skills'
+
 
 
 
@@ -24,7 +27,8 @@ export default {
         NavComponent,
         Parallax,
         FooterComponent,
-        Proyects
+        Proyects,
+        Skills
     },
     data () {
       return {

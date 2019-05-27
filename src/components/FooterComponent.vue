@@ -1,5 +1,5 @@
 <template>
-    <footer class="page-footer mi-footer z-depth-3">
+    <footer id="contacto" class="page-footer mi-footer z-depth-3">
         <div class="container">
             <div class="row">
                 <div class="col l6 s12">
