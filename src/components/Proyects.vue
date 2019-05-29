@@ -20,6 +20,10 @@
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">detalles del producto<i class="material-icons right">close</i></span>
                         <p>podría ir una descripcion de las herramientas que use o mas detalles del proyecto</p>
+                          <div class="center">
+                            <a class="waves-effect btn mi-btn">Demo</a>
+                        <a class="waves-effect btn mi-btn">Código</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -41,6 +45,10 @@
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">detalles del producto<i class="material-icons right">close</i></span>
                         <p>podría ir una descripcion de las herramientas que use o mas detalles del proyecto</p>
+                          <div class="center">
+                            <a class="waves-effect btn mi-btn">Demo</a>
+                        <a class="waves-effect btn mi-btn">Código</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -62,8 +70,10 @@
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">detalles del producto<i class="material-icons right">close</i></span>
                         <p>podría ir una descripcion de las herramientas que use o mas detalles del proyecto</p>
-                         <a class="waves-effect btn mi-btn">Demo</a>
+                        <div class="center">
+                            <a class="waves-effect btn mi-btn">Demo</a>
                         <a class="waves-effect btn mi-btn">Código</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -85,6 +95,10 @@
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">detalles del producto<i class="material-icons right">close</i></span>
                         <p>podría ir una descripcion de las herramientas que use o mas detalles del proyecto</p>
+                        <div class="center">
+                            <a class="waves-effect btn mi-btn">Demo</a>
+                        <a class="waves-effect btn mi-btn">Código</a>
+                        </div>
                     </div>
                 </div>
             </div>
