@@ -9,7 +9,9 @@
                     <ul id="nav-mobile" class="right hide-on-med-and-down">
                         <li><a href="#sobre-mi">Sobre mí</a></li>
                         <li><a href="#proyects">Proyectos</a></li>
-                        <li><a href="#">Contaco</a></li>
+                        <li><a href="#skills">Skills</a></li>
+                        <li><a href="#contacto">Contacto</a></li>
+
                     </ul>
                 </div>
             </nav>
