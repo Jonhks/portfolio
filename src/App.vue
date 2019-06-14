@@ -1,6 +1,7 @@
 <template>
     <div id="app">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
         <NavComponent/>
         <parallax/>
         <proyects/>
